@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/jigsaw"
+    },
+    "overrides" : [
+        {"predicate": {"custom_model_data": 2203000}, "model": "electrus/capa"},
+        {"predicate": {"custom_model_data": 2203010}, "model": "electrus/cachecol"},
+        {"predicate": {"custom_model_data": 2203100}, "model": "electrus/ficha"}
+    ]
+}
