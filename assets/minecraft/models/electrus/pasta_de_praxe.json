@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:electrus/pasta_de_praxe"
+    }
+}
